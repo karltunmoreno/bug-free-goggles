@@ -1,4 +1,4 @@
-# Title (replace with your title)
+# Bug Free Goggles
 
 Introductory paragraph (replace this with your text)
 
